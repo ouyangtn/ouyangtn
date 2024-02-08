@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ouyangtn
 - 👀 I’m interested in write code, learn programming techniques, explore food, listen to musi.
 - 🌱 I’m currently learning C++,Java,Front end language,algorithm.
-- 💞️ I’m looking to collaborate on leaning C++,Java, Algorithm brush question.
+- 💞️ I’m looking to collaborate on Computer factory internship.
 - 📫 This is my email：aa1886705@outlook.com
 
 <!---
