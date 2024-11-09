@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @ouyangtn
-- 👀 I’m interested in write code, learn programming techniques, explore food, listen to musi.
-- 🌱 I’m currently learning C++,Java,algorithm.
-- 💞️ I’m looking to collaborate on Internet factory internship.
-- 📫 This is my email：aa1886705@outlook.com
+- 👋 Hi, I’m @ouyangtn   I have been struggling for my ideal~~Keep working hard! ! ! !
+- 👀 Study | Guilin · Internet of Things Engineering · Undergraduate
+-  📫 This is my email：aa1886705@outlook.com and 776271173@qq.com
+- 🌱 Target | Internet giant, Java backend development
+- 💞️ Interests | I like programming, researching technology, traveling, eating, Jay Chou~~ I like writing and sharing
+- 🌱  Vision | I hope to make continuous progress through my own small efforts, hold on to my ideals, and never forget my original intention!
+- 🌱 Community | Occasionally Play: Nuggets
+- 🌱 My Gitee: https:--gitee.com-ouyang-jianli
+- 🌱 My blog: https:--blog.csdn.net-oyjl__?spm
 
-<!---
-ouyangtn/ouyangtn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
