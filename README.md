@@ -12,4 +12,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ouyangtn/ouyangtn/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ouyangtn/ouyangtn/output/github-contribution-grid-snake.svg">
 </picture>
-![Satya wikananda's card name](https://cardivo.vercel.app/api?name=Satya%20Wikananda&description=Hi,%20i%27m%20a%20front%20end%20web%20developer%20and%20i%27m%2020%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/33148052?v=4&backgroundColor=%23ecf0f1&instagram=satyawikananda&linkedin=I%20Gusti%20Ngurah%20Satya%20%20Wikananda&github=satyawikananda&twitter=satya_wikananda&pattern=leaf&colorPattern=%23eaeaea)
+[![AHUA's GitHub stats](https://github-readme-stats.vercel.app/api?username=AHUA-Official&theme=radical "![AHUA's GitHub stats")](https://github.com/AHUA-Official/github-readme-stats)
