@@ -8,6 +8,7 @@
 - **Gitee**: [ouyang-jianli](https://gitee.com/ouyang-jianli)
 - **Technical blogs**: [CSDN - oyjl__](https://blog.csdn.net/oyjl__?spm)
 - **Personal blogs**: [Blog - oyjl__](https://oyjl-blog.vercel.app/?spm)
+- **YuQue**: [Study-notes - oyjl__](https://www.yuque.com/u43023053?spm)
 - **Community**: Nuggets (occasional participation)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ouyangtn/ouyangtn/output/github-contribution-grid-snake-dark.svg">
