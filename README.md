@@ -6,7 +6,8 @@
 - **Interests**: Programming, technology research, traveling, food, Jay Chou, writing & sharing
 - **Email**: aa1886705@outlook.com / 776271173@qq.com
 - **Gitee**: [ouyang-jianli](https://gitee.com/ouyang-jianli)
-- **Blog**: [CSDN - oyjl__](https://blog.csdn.net/oyjl__?spm)
+- **Technical blogs**: [CSDN - oyjl__](https://blog.csdn.net/oyjl__?spm)
+- **Personal blogs**: [Blog - oyjl__](https://oyjl-blog.vercel.app/?spm)
 - **Community**: Nuggets (occasional participation)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ouyangtn/ouyangtn/output/github-contribution-grid-snake-dark.svg">
